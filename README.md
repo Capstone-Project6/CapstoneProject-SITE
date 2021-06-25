@@ -6,9 +6,9 @@ SITE Course Year: **2021**
 
 Cohort: **Workday**
 
-Team Member Names:** Sharon Sanchez | Sydney Varner | Abbey Yared **
+Team Member Names: Sharon Sanchez | Sydney Varner | Abbey Yared
 
-Mentors Names: ** Michelle Koo | Nicole Theokari | Kevin Backers **
+Mentors Names: Michelle Koo | Nicole Theokari | Kevin Backers 
 
 ## Project Overview
 
