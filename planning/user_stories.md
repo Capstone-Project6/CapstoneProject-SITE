@@ -24,6 +24,7 @@ The problem we want to solve is to create a better user experience for anyone lo
 1. Sharon enjoys partying and meeting new people frequently to develop friendships of all kinds. She noticed that there are not much events around her area to meet with people. So, she decides to use the app to create an event to party and bring people from her area together. She also wants to let guests know that the event is free to join and to rate her as a great organizer to develop a reputation as a trustworthy organizer. 
 
 2. Jake's mother passed away from breast cancer. To honor her, he wants to host a walkathon to fundraise money for research towards breat cancer as well as raising awareness to his community. He doesn't know too many people that have dealt with this situation so he creates an event for his county to reach out and connect with those who went through it. 
+ 
 
 ## User Stories
 
