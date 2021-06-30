@@ -15,6 +15,8 @@ The main purpose of this project is create a platform that makes it easy for use
 ## Expected Features List
 
 - User profile
+- Event Organizer profile
+- survey feature
 - User login
 - Filter events by type or price
 - Display relevant events
