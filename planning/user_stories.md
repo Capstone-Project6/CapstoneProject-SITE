@@ -4,7 +4,7 @@ Pod Members: **Sharon Sanchez, Sydney Varner, Abbey Yared**
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+The problem we want to solve is to create a better user experience for anyone looking for events to attend. The problem with other platforms is that they make it difficult for users to navigate and find events due to the limited filters and poor interface. Currently these other platforms do not make it easy to determine the likelihood that a user would be able to attend an event due to pricing, number of tickets, etc. We also want to structure our feed of events so the organized events are relevant to a user's interests, and not just random events at a given time. We would also provide users with more information about the details around who is organizing the event, particularly for smaller events.
 
 ## User Roles
 
