@@ -14,17 +14,17 @@ The main purpose of this project is create a platform that makes it easy for use
 
 ## Expected Features List
 
-- User profile
+- Eventgoer profile
 - Event Organizer profile
-- survey feature
-- User login
+- survey feature on event organizer profile
+- Eventgoer and organizer login
 - Filter events by type or price
 - Display relevant events
 - Recommend future events
 - Display number of tickets/spots available
 - View organizer information
 - Rating system for events and organizers
-- Reviews/comments about events
+- Reviews about events
 
 ## Related Work
 
