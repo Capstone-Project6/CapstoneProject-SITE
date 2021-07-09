@@ -13,6 +13,11 @@ Our second goal is for users of our site to be fully informed, so that they can 
 
 ## User Roles and Personas
 
+User Roles
+
+1.Eventgoers
+2.Event Organizers
+
 Eventgoers
 
 Sydney is an eventgoer from Atlanta, Georgia that enjoys going to concerts from huge, well known artists to hidden ones. She enjoys going out on the weekends with friends by looking for something to do such as events. She has a full time internship and a limited budget that she can't look for events for a long time and she does not want to spend too much. She is to use the event finder app to look for a concert of any type near her area with specific filters of concerts that cost a certain amount that fits her budget.
