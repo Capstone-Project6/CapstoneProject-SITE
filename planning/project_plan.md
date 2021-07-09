@@ -16,6 +16,7 @@ Our second goal is for users of our site to be fully informed, so that they can 
 User Roles
 
 1.Eventgoers
+
 2.Event Organizers
 
 Eventgoers
