@@ -77,14 +77,10 @@ create an event page
 register an event page
 
 ## Data Model
-
-
-
-
-
+https://docs.google.com/document/d/1ID6o9fviyaXmKzQA0W5i8gUtaCziYN9zxpdgUJJItsE/edit?usp=sharing
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+https://docs.google.com/document/d/1MVEXItBawAAQrAeyg_ZS03lEIZdJ2u39eNWtsQa0A90/edit?usp=sharing
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
