@@ -34,7 +34,19 @@ Jake's mother passed away from breast cancer. To honor her, he wants to host a w
 
 ## User Stories
 
-List the current user stories you will implement.
+
+As an eventgoer, I want to find events quickly based on my interests, so that it won't be time consuming.
+As an eventgoer, I want to find events at a specfic price range, so that it can fit my budget.
+As an eventgoer, I want to find events in my area, so that I won't have to travel far.
+As an eventgoer, I want to find events to learn or improve professional skills, so that I can stay competitive for my career.
+As an eventgoer, I want to attend high quality events, so that it can be more helpful or enjoyable for me.
+As an eventgoer, I want to know how many tickets are available for an event, so that I know if the event is popular, I can plan to get them in time.
+As an eventgoer, I want to be able to have a profile, so that I can see future events based on the ones I previously attended.
+As an event organizer, I want to organize an event in my area, so that I can connect with my community.
+As an event organizer, I want to notify eventgoers of specific event details (ex: cost, area, etc...), so that they can decide if it's right for them
+As an event organizer, I want to remind eventgoers to rate and review the event and us as organizers, so that future eventgoers can know that we are trustworthy.
+As an event organizer, I want to develop an account profile with details like previous events that were hosted, a bio, and our location, so that eventgoers know who we are and can decide if they would like to attend our events.
+As an event organizer, I want to create and post surveys for eventgoers after an event, so that we know how we can improve for future events.
 
 ## Pages/Screens
 
