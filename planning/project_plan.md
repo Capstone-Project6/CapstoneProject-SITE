@@ -21,7 +21,14 @@ List the current user stories you will implement.
 
 ## Pages/Screens
 
-List all the pages and screens in the app. Include wireframes for at least 3 of them.
+https://www.figma.com/file/sccdVEOFMZjG1fEaGoly5a/Capstone-Project-team-library
+
+Lists the follow webpages:
+Home page
+Registration pages
+Event goer and Event Organizer profile
+create an event page
+register an event page
 
 ## Data Model
 
