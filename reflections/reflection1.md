@@ -19,7 +19,7 @@ We were able to successfully connect the frontend and backend to view our progre
 
 * Did the resources provided to you help prepare you in planning and executing your capstone project sprint this week? Be specific, what resources did you find particularly helpful or which tasks did you need more support on?
 
- The previous labs and assignments helped prepare us in planning and executing our capstone project, specifically Jeff's rate-my-setup video from week 3, as well as the Life-Tracker and Student-Store assignments. When building the frontend, material-ui was very helpful in our design and implementation, and so the documentation was a key resource for us. Also, the mentors were a very helpful resource as they always there to guide us in the right direction and to answer any questions we had.
+ The previous labs and assignments helped prepare us in planning and executing our capstone project, specifically Jeff's rate-my-setup video from week 3, as well as the Life-Tracker and Student-Store assignments. When building the frontend, material-ui was very helpful in our design and implementation, and so the documentation was a key resource for us. Also, the mentors were a very helpful resource as they were always there to guide us in the right direction and to answer any questions we had.
 
 * Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
