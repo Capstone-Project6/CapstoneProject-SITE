@@ -32,6 +32,7 @@ The target audience will have to create an account, where they can specify their
 - Rating system for events and organizers
 - Reviews about events
 - Preferences Form
+- Create Events Form 
 
 ## Related Work
 
@@ -40,8 +41,5 @@ Two of the most popular websites for finding an event are ticketmaster and event
 
 ## Open Questions
 
-
-- How would we go about using more than one API? 
 - How would we filter events based on a user's interests?
-- How would we encrypt personal information of users?
 
