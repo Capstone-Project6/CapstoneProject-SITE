@@ -22,8 +22,7 @@ The target audience will have to create an account, where they can specify their
 ## Expected Features List
 
 - Eventgoer profile
-- Event Organizer profile
-- Eventgoer and organizer login
+- Eventgoer login
 - Filter events by type or price
 - Display relevant events
 - Recommend future events
